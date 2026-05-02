@@ -1,0 +1,143 @@
+[
+  {
+    "id": "3a48fc07-002b-4476-9f47-5da53ddea14e",
+    "createdAt": "2026-03-06T01:48:30.266Z",
+    "players": [
+      "A",
+      "B"
+    ],
+    "winner": "B",
+    "notes": null,
+    "cardsUsed": [
+      {
+        "id": "swsh3-136",
+        "name": "Furret",
+        "set": {
+          "id": "swsh3",
+          "name": "Darkness Ablaze",
+          "serie": null
+        },
+        "rarity": "Uncommon",
+        "types": [
+          "Colorless"
+        ],
+        "hp": 110,
+        "attacks": [
+          {
+            "cost": [
+              "Colorless"
+            ],
+            "name": "Feelin' Fine",
+            "effect": "Draw 3 cards."
+          },
+          {
+            "cost": [
+              "Colorless"
+            ],
+            "name": "Tail Smash",
+            "effect": "Flip a coin. If tails, this attack does nothing.",
+            "damage": 90
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Fighting",
+            "value": "×2"
+          }
+        ],
+        "resistances": [],
+        "retreatCost": 1,
+        "imageUrl": "https://assets.tcgdex.net/en/swsh/swsh3/136/high.webp"
+      }
+    ]
+  },
+  {
+    "id": "ab5f40c2-b1e5-4dae-90c7-d2b5307f9e7c",
+    "createdAt": "2026-03-06T01:30:08.765Z",
+    "players": [
+      "A",
+      "B"
+    ],
+    "winner": "A",
+    "notes": "test",
+    "cardsUsed": [
+      {
+        "id": "swsh3-136",
+        "name": "Furret",
+        "set": {
+          "id": "swsh3",
+          "name": "Darkness Ablaze",
+          "serie": null
+        },
+        "rarity": "Uncommon",
+        "types": [
+          "Colorless"
+        ],
+        "hp": 110,
+        "attacks": [
+          {
+            "cost": [
+              "Colorless"
+            ],
+            "name": "Feelin' Fine",
+            "effect": "Draw 3 cards."
+          },
+          {
+            "cost": [
+              "Colorless"
+            ],
+            "name": "Tail Smash",
+            "effect": "Flip a coin. If tails, this attack does nothing.",
+            "damage": 90
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Fighting",
+            "value": "×2"
+          }
+        ],
+        "resistances": [],
+        "retreatCost": 1,
+        "imageUrl": "https://assets.tcgdex.net/en/swsh/swsh3/136/high.webp"
+      },
+      {
+        "id": "swsh7-110",
+        "name": "Rayquaza V",
+        "set": {
+          "id": "swsh7",
+          "name": "Evolving Skies",
+          "serie": null
+        },
+        "rarity": "Holo Rare V",
+        "types": [
+          "Dragon"
+        ],
+        "hp": 210,
+        "attacks": [
+          {
+            "cost": [
+              "Lightning"
+            ],
+            "name": "Dragon Pulse",
+            "effect": "Discard the top 2 cards of your deck.",
+            "damage": 40
+          },
+          {
+            "cost": [
+              "Fire",
+              "Lightning"
+            ],
+            "name": "Spiral Burst",
+            "effect": "You may discard up to 2 basic Fire Energy or up to 2 basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",
+            "damage": "20+"
+          }
+        ],
+        "weaknesses": [],
+        "resistances": [],
+        "retreatCost": 2,
+        "imageUrl": "https://assets.tcgdex.net/en/swsh/swsh7/110/high.webp"
+      }
+    ]
+  }
+]

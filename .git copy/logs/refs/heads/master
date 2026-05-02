@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000 26a26adec52b0b895172a4fc10a8c3adcced8ee4 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1772545622 -0600	commit (initial): Initial commit
+26a26adec52b0b895172a4fc10a8c3adcced8ee4 badd1e69c7da601c46b1cff1e86bb27a3e4c227f esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1772582904 -0600	commit: Refactor navigation and add card catalog
+badd1e69c7da601c46b1cff1e86bb27a3e4c227f 1995595a9cfcaea2db2b8e4de24ecd633796882d esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1773161158 -0600	pull --ff --recurse-submodules --progress origin: Fast-forward
+1995595a9cfcaea2db2b8e4de24ecd633796882d b711bda3bc587e51df968563e02f8a6eb618b066 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1773164192 -0600	commit: Add questions/comments to backend README/docs
+b711bda3bc587e51df968563e02f8a6eb618b066 27654e148c4f30579b3aad7f773d123fe59b8308 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1773512007 -0600	commit: Add catalog UI, pagination and typed TCG service
+27654e148c4f30579b3aad7f773d123fe59b8308 69cbe71e9928e3b59e02ee4e5d6a3a1ffdd28529 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1773556030 -0600	commit: Filter cards by setIds; show active expansions
+69cbe71e9928e3b59e02ee4e5d6a3a1ffdd28529 028cda31586b6e1bf44ffbdc6df7c90934edec16 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1773970671 -0600	pull --ff --recurse-submodules --progress origin: Fast-forward
+028cda31586b6e1bf44ffbdc6df7c90934edec16 d008a87ff06647518ada9f3f6b7728fbfae37364 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1774196346 -0600	commit: Add server-side search, pagination and UI tweaks
+d008a87ff06647518ada9f3f6b7728fbfae37364 623010d4d45a9caf22402d9fcdb8c6c84525b6a2 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1774197972 -0600	commit: Integrate react-native-paper theme & UI components
+623010d4d45a9caf22402d9fcdb8c6c84525b6a2 03c29edc34948b94fa85c9f9dc7436a1008787da esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1774198703 -0600	commit: Add catalog filters, sorting and docs
+03c29edc34948b94fa85c9f9dc7436a1008787da 9a4d920f30fc73774716ef3367d4df3acc05daa8 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1774201987 -0600	commit: Implement filters UI, header UX, and tags
+9a4d920f30fc73774716ef3367d4df3acc05daa8 d18af66197007b7c8f1e29bf826e9306233c4cc8 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1774203067 -0600	commit: UI: compact header, snackbar & card tweaks
+d18af66197007b7c8f1e29bf826e9306233c4cc8 aa34872fc562e72190abdab01dd801170de3b4aa esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1774203382 -0600	commit: Update expo version in package-lock
+aa34872fc562e72190abdab01dd801170de3b4aa 2bda1ee6175e6369be135cab98824b433b4bd5bd esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1774204181 -0600	commit: Update package-lock.json
+2bda1ee6175e6369be135cab98824b433b4bd5bd 6c8c254a2adfbc8a273c2dbbbf870b0b11f28154 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1774204985 -0600	commit: Update tcgdexService.ts
+6c8c254a2adfbc8a273c2dbbbf870b0b11f28154 3a00b56897320bd19adbd3f6cd85ab290bd6c37d esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1774205198 -0600	commit: mds
+3a00b56897320bd19adbd3f6cd85ab290bd6c37d 5d6c6a5c8edb3917ac662da532352f03ed1ce8f2 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1774998016 -0600	pull --ff --recurse-submodules --progress origin: Fast-forward
+5d6c6a5c8edb3917ac662da532352f03ed1ce8f2 12e391d3e56a2c09a77155d367c10699f49b1976 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1775001935 -0600	commit: Correcciones semana 3
+12e391d3e56a2c09a77155d367c10699f49b1976 ac275d2bbf5254b31ee216109de3eaf14497ae5d esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1775074678 -0600	commit: Semana 4
+ac275d2bbf5254b31ee216109de3eaf14497ae5d b0dba75450c85b7932823f2b2763942e11f1e6ee esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1775142915 -0600	pull --ff --recurse-submodules --progress origin: Fast-forward
+b0dba75450c85b7932823f2b2763942e11f1e6ee 97341eeeed4129a0d83769678654d1562f1fdca8 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1775144607 -0600	commit: Correcciones semana 4
+97341eeeed4129a0d83769678654d1562f1fdca8 0ed7a3044e9778ba55f41551130714e674f320c4 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1775510542 -0600	commit: semana 5
+0ed7a3044e9778ba55f41551130714e674f320c4 9a59aa838f03c71f35438b6d1b451cddf695bbc9 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1775512088 -0600	commit: Create semana5-cambios.md
+9a59aa838f03c71f35438b6d1b451cddf695bbc9 a98db241ff64a220266eea139da73158400f69ba esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1775687894 -0600	pull --ff --recurse-submodules --progress origin: Fast-forward
+a98db241ff64a220266eea139da73158400f69ba 879da10c797364241c6d9cc3c48466c9d08848ae esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1775690321 -0600	commit: scroll para las cartas
+879da10c797364241c6d9cc3c48466c9d08848ae 5a5b696f955fa4feb9cd83f8adf7780bf3d1342d esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1775690330 -0600	commit: Update simulator.tsx
+5a5b696f955fa4feb9cd83f8adf7780bf3d1342d 67385fb5adfdae7a35683c53c09f81d3525fd347 esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1775694325 -0600	commit: semana 6
+67385fb5adfdae7a35683c53c09f81d3525fd347 cc9307e069a34e83e1b6b6265f9b9da1cefa0a3c esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1776615106 -0600	pull --ff --recurse-submodules --progress origin: Fast-forward
+cc9307e069a34e83e1b6b6265f9b9da1cefa0a3c 467232cfb323effe0708c64ed1882227c9ce441b esmeygatito <74633173+esmeygatito@users.noreply.github.com> 1776619445 -0600	commit: semana 7 esme
